@@ -1,0 +1,12 @@
+depth,mean,error,upper depth,lower depth,type
+103.5,870,40,103,104,C
+135.5,1490,40,135,136,C
+195.5,2320,40,195,196,C
+253.5,2870,50,253,254,C
+0,-50,2,NA,NA,Pb
+4,-39,2,NA,NA,Pb
+8,-25,2,NA,NA,Pb
+12,-12,2,NA,NA,Pb
+16,10,2,NA,NA,Pb
+20,34,2,NA,NA,Pb
+24,83,7,NA,NA,Pb

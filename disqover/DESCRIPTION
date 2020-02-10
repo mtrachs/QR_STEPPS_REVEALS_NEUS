@@ -1,0 +1,25 @@
+Package: disqover
+Type: Package
+Title: Quantitative vegetation modelling from pollen data
+Version: 0.9
+Authors@R: c(
+    person("Volkmar", "Liebscher", email = "volkmar.liebscher@uni-greifswald.de", role = "cre"),
+    person("Martin", "Theuerkauf", email = "martin.theuerkauf@uni-greifswald.de", role = "aut"),
+    person("Triin", "Reitalu", email = "triinreitalu@gmail.com", role = "aut"))
+Maintainer: Martin Theuerkauf <martin.theuerkauf@uni-greifswald.de>
+Description: The DISQOVER package is a platform for methods that enable quantitative interpretion of pollen data. 
+    The package includes R versions of well established as well as newly developed models.
+Depends: R (>= 3.4.0), ggplot2
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Imports:
+URL: http://disqover.botanik.uni-greifswald.de/
+Suggests: knitr, readxl, forcats, DEoptim, compiler, rmarkdown
+VignetteBuilder: knitr
+NeedsCompilation: no
+Packaged: 2018-04-15 23:09:56 UTC; jp
+Author: Volkmar Liebscher [cre],
+  Martin Theuerkauf [aut],
+  Triin Reitalu [aut]

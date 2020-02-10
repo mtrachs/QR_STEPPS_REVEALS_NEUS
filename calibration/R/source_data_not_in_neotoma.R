@@ -1,0 +1,7 @@
+setwd(wd)
+source('new_pollen_data/R/clean_data_NEUS_not_in_neotoma.R')
+setwd(wd)
+source('new_pollen_data/R/clean_data_New_England.R')
+setwd(wd)
+source('calibration/helper_funs/evaluate_elicitation_certainty_new_sites.R')
+source('calibration/R/pollen_not_in_neotoma.R')

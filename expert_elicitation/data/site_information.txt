@@ -1,0 +1,155 @@
+"Site" "Longitude" "Latitude"
+"1" "Basin Pond" -70.05 44.47
+"2" "Belmont Bog" -77.92 42.25
+"3" "Berry Pond" -73.32 42.5
+"4" "Big Pond" -78.55 39.77
+"5" "Boundary Pond" -70.67 45.57
+"6" "Brandreth Bog" -74.68 43.92
+"7" "Burden Lake" -73.56 42.6
+"8" "Carbuncle Pond" -71.78 41.7
+"9" "Caribou Bog" -68.77 44.94
+"10" "Clear Pond" -74.02 43.75
+"11" "Conroy Lake" -67.88 46.28
+"12" "Crider's Pond" -77.55 39.97
+"13" "Deer Lake Bog" -71.83 44.03
+"14" "Donut Pond Bog" -70.06 41.27
+"15" "Duck Pond" -70 41.93
+"16" "Eagle Lake Bog" -71.67 44.17
+"17" "Ely Lake" -75.83 41.77
+"18" "First" -75.03 41.14
+"19" "Forge Pond" -74.4 40.86
+"20" "Fresh Pond" -71.58 41.16
+"21" "Giles" -75.09 41.38
+"22" "Gould Pond" -69.32 44.98
+"23" "Gould's Bog" -72.18 42.53
+"24" "Green Pond" -74.5 41.01
+"25" "Greenwater Pond" -73.32 42.28
+"26" "Hawley Bog Pond-1" -72.88 42.57
+"27" "Helmetta Bog" -74.43 40.38
+"28" "Houghton Bog" -78.67 42.54
+"29" "Kinsman Pond" -71.73 44.13
+"30" "Lacawac" -75.29 41.38
+"31" "Lonesome Lake" -71.7 44.14
+"32" "Longswamp" -75.67 40.48
+"33" "Loon Pond" -68.2 45.03
+"34" "Lost P." -71.25 44.25
+"35" "Mansell Pond" -68.73 45.04
+"36" "Mashapaug Pond" -71.43 41.78
+"37" "Monhegan Island Meadow" -69.3 43.77
+"38" "Moulton Pond" -68.64 44.63
+"39" "No Bottom Pond" -70.21 41.28
+"40" "North Pond" -73.05 42.65
+"41" "Lake Ontario, Rochester Basin" -76.9 43.51
+"42" "Lake Ontario, Mississauga Basin" -78.15 43.56
+"43" "Panther Run Pond" -77.42 40.8
+"44" "Pasacaco Pond" -71.45 41.52
+"45" "Poland Spring Pond" -70.35 44.03
+"46" "Protection Bog" -78.47 42.62
+"47" "Rogers Lake" -72.3 41.35
+"48" "Rose Lake" -77.92 41.92
+"49" "Ross Pond" -69.41 43.92
+"50" "Silver" -74.99 41.25
+"51" "Sinkhole Pond" -70.35 43.97
+"52" "Spring Lake" -76.35 41.67
+"53" "Spruce Pond" -74.18 41.24
+"54" "Stockbridge Bowl" -73.15 42.33
+"55" "Sutherland Pond" -74.04 41.39
+"56" "Swartswood Lake" -74.84 41.07
+"57" "Szabo Pond" -74.48 40.4
+"58" "Tannersville Bog" -75.26 41.04
+"59" "Taupawshas Bog" -70.06 41.27
+"60" "Titicut Swamp" -71.03 41.95
+"61" "Unknown Pond" -70.63 45.6
+"62" "Upper South Branch Pond" -68.89 46.09
+"63" "Valhalla Hollow" -74.37 44.31
+"64" "Windsor Pond" -72.98 42.54
+"65" "Winneconnet Pond" -71.12 41.97
+"66" "Woodcliff Lake" -74.03 41.02
+"67" "Heart Lake" -73.97 44.18
+"68" "Mohawk Pond" -73.29 41.81
+"69" "Tom Swamp" -72.21 42.52
+"70" "Upper Wallface Pond" -74.06 44.15
+"71" "Dead Frog Pond" -72.51 42.57
+"72" "Hemlock Hollow" -72.18 42.54
+"73" "Linsley Pond" -72.78 41.32
+"74" "Big Reed Pond Hollow" -69.05 46.35
+"75" "Blackwoods Hollow" -68.22 44.31
+"76" "Buckley Pond Hollow" -69.05 46.33
+"77" "Isle au Haut North Hollow" -68.64 44.07
+"78" "Isle au Haut South Hollow" -68.63 44.03
+"79" "Roque Island Hollow" -67.53 44.57
+"80" "Schoodic Peninsula Hollow" -68.07 44.37
+"81" "South Bog" -67.2 44.72
+"82" "Round Pond" -70.01 41.97
+"83" "Deep Pond" -69.99 41.74
+"84" "Icehouse Pond" -69.96 41.8
+"85" "Eagle Pond" -70.14 41.7
+"86" "Jemima Pond" -69.98 41.83
+"87" "Sandy Hill Pond" -70.36 41.69
+"88" "Fresh Pond" -70.53 41.59
+"89" "Makepeace Cedar Swamp" -70.76 41.94
+"90" "Makepeace Cedar Swamp" -70.76 41.94
+"91" "Makepeace Cedar Swamp" -70.76 41.94
+"92" "South Dansville Buried Peat" -77.64 42.49
+"93" "Byron-Bergen Swamp (Site 2)" -78 43.1
+"94" "Byron-Bergen Swamp (Site 1)" -78.01 43.1
+"95" "Black Gum Swamp" -72.18 42.54
+"96" "Balsam Lake" -74.6 42.03
+"97" "Devil's Bathtub" -77.57 43.02
+"98" "Goose Bay Marsh" -75.87 44.35
+"99" "Lily Pond" -72.35 42.42
+"100" "Prospect Hill II" -72.18 42.56
+"101" "Prospect Hill VII" -72.18 42.56
+"102" "Slab City" -72.18 42.51
+"103" "Slab City" -72.18 42.51
+"104" "Tannersville Bog" -75.26 41.04
+"105" "Divers Lake" -78.4 43.04
+"106" "Ballston Lake" -73.85 42.95
+"107" "Hiscock Site" -78 43
+"108" "Green Pond" -72.51 42.57
+"109" "Lily Warwick" -72.34 42.69
+"110" "Little Mirror Lake" -71.61 42.52
+"111" "Otter Pond" -72.53 42.65
+"112" "Silver Lake" -72.23 42.6
+"113" "Binnewater Pond" -74.55 41.41
+"114" "Pawelski Farm" -74.43 41.33
+"115" "Piermont Marsh" -73.91 41.03
+"116" "Lost Swamp" -72.42 42.83
+"117" "Lake Grinnell" -74.64 41.1
+"118" "Quag Pond" -71.96 42.57
+"119" "Little Bolton" -71.59 42.42
+"120" "Snake Pond" -72.02 42.56
+"121" "Lake Pleasant" -72.51 42.56
+"122" "Round Pond" -72.71 42.17
+"123" "Black Point Pond" -70.67 41.35
+"124" "Deep Bottom Cove" -70.64 41.37
+"125" "Muddy Cove Pond" -70.67 41.38
+"126" "Long Cove Pond" -70.63 41.36
+"127" "Watcha Pond" -70.61 41.36
+"128" "Jobs Neck Pond" -70.58 41.36
+"129" "Mathews Pond" -69.06 46.32
+"130" "Big Moose Lake" -74.85 43.83
+"131" "Jane's Cove" -70.57 41.38
+"132" "Mashacket Cove" -70.55 41.37
+"133" "Slough Cove" -70.54 41.36
+"134" "Lagoon Pond" -70.6 41.43
+"135" "Lake Tashmoo" -70.63 41.46
+"136" "Cedar Tree Neck Bog" -70.7 41.43
+"137" "Benson Pond" -73.09 42.38
+"138" "Berry Pond" -71.09 42.62
+"139" "Black Pond" -70.79 41.33
+"140" "Blaney's Pond" -70.77 41.47
+"141" "Blood Pond" -71.96 42.08
+"142" "Deep-Falmouth Pond" -70.64 41.56
+"143" "Deep-Taunton Pond" -71.01 41.88
+"144" "Doe Pond" -72.7 42.18
+"145" "Green Pond" -72.51 42.57
+"146" "Guilder Pond" -73.44 42.11
+"147" "Knob Hill Pond" -72.37 44.36
+"148" "Little Royalston Pond" -72.19 42.68
+"149" "Little Willey Pond" -71.18 43.29
+"150" "Sears Pond" -72.58 40.89
+"151" "Umpawaug Pond" -73.45 41.31
+"152" "Uncle Seth's Pond" -70.66 41.43
+"153" "Ware Pond" -70.88 42.48
+"154" "West Side Pond" -73.26 41.85

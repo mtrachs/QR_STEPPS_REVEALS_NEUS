@@ -1,0 +1,18 @@
+
+[1] "50% source distance"
+           Ash          Beech          Birch       Chestnut        Hemlock        Hickory          Maple            Oak 
+            76             76             76             76             76             76             76             72 
+ Other conifer Other hardwood           Pine         Spruce       Tamarack 
+            76             76             76             76             76 
+
+[1] "70% source distance"
+           Ash          Beech          Birch       Chestnut        Hemlock        Hickory          Maple            Oak 
+           104            100            100            100            100            104            104            100 
+ Other conifer Other hardwood           Pine         Spruce       Tamarack 
+           100            104            104            100            104 
+
+[1] "90% source distance"
+           Ash          Beech          Birch       Chestnut        Hemlock        Hickory          Maple            Oak 
+           140            140            140            140            140            140            140            140 
+ Other conifer Other hardwood           Pine         Spruce       Tamarack 
+           140            140            140            140            140 

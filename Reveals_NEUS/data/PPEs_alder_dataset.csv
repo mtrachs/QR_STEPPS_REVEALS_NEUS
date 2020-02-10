@@ -1,0 +1,7 @@
+"","dataset","species.common","species.latin","taxon","ppe","error","reference_taxon","region","state.province","continent","pub","model","weighting","use","notes","errors.estimated"
+"257",29,"","Betula","Birch",3.12,0.44,"Cyperaceae","Forest","Alaska","North America","Hopla & Edwards","ERV model 3","Sutton-Prentice","y","",0.44
+"258",29,"","Salix","Willow",0.24,0.04,"Cyperaceae","Forest","Alaska","North America","Hopla & Edwards","ERV model 3","Sutton-Prentice","y","",0.04
+"259",29,"","Alnus","Alder",0.96,0.12,"Cyperaceae","Forest","Alaska","North America","Hopla & Edwards","ERV model 3","Sutton-Prentice","y","",0.12
+"260",29,"","Picea","Spruce",1,0,"Cyperaceae","Forest","Alaska","North America","Hopla & Edwards","ERV model 3","Sutton-Prentice","y","",0
+"261",29,"","Populus","Poplar",0.04,0,"Cyperaceae","Forest","Alaska","North America","Hopla & Edwards","ERV model 3","Sutton-Prentice","y","",0
+"262",29,"","Poaceae","Grass",0.36,0.18,"Cyperaceae","Forest","Alaska","North America","Hopla & Edwards","ERV model 3","Sutton-Prentice","y","",0.18
